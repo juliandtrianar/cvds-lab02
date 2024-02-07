@@ -58,9 +58,17 @@
 ### Qué es y para qué sirve el repositorio central de maven
 
     Es una biblioteca de artefactos almacenados, a manera de depósito, como parte de la filosofía Maven. Estos artefactos, pueden ser ubicados mediante coordenadas. El repositorio Maven permite [añadir o hacer uso de            plugins previamente implementados.](https://maven.apache.org/repository/index.html)
+
+## EJERCICIO DE LAS FIGURAS
+
     
+
+### CREAR UN PROYECTO CON MAVEN    
+
     
+        
  ![mvn](http://url/a.png)                                                                                                                                                                                                                                                                                        
+                            
                                                                                                                                                                                             *Autores* 
                                                                                                                                                                                                           
                                                                                                                                                                                                 Daniel Alejandro Acero 
