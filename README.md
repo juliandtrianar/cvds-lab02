@@ -3,7 +3,7 @@
 
 ## LA HERRAMIENTA MAVEN
 
-### Cuál es su mayor utilidad 
+### Cuál es su mayor [utilidad](https://maven.apache.org/what-is-maven.html)
 
     Maven sirve para facilitar la gestión de proyectos a múltiples a múltiples desarrolladores, aunque tiene múltiples utilidades y potencialidades tales como:
 
@@ -13,7 +13,7 @@
         - Utilizar o no determinados plugins.
         - Boostear las mejores prácticas de desarrollo.
 
-    Adicionalmente, posee otros atributos que lo caracterizan:
+    Adicionalmente, posee otros atributos que lo [caracterizan](https://maven.apache.org/maven-features.html):
 
         * Instantaneidad en sus funciones.
         * Consistencia del equipo.
@@ -25,7 +25,7 @@
 
 ### Fases de maven 
 
-    A continuación la lista completa de fases del ciclo de vida 'default' en MAVEN:
+    A continuación la lista completa de [fases](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html) del ciclo de vida 'default' en MAVEN:
 
         1. ´Validate´ Validar la correctitud y completitud de la información relacionada al proyecto.
         2. ´Compile´ Compilación del coódigo fuente.
@@ -44,7 +44,7 @@
 
 ### Para qué sirven los plugins 
 
-    Sirven para complementar funcionalidades de Maven, como por ejemplo:
+    Sirven para [complementar funcionalidades](https://maven.apache.org/plugins/index.html) de Maven, como por ejemplo:
 
         * Generar EAR.
         * Construir EJB, RAR, JAR y AR.
@@ -57,8 +57,10 @@
     
 ### Qué es y para qué sirve el repositorio central de maven
 
+    Es una biblioteca de artefactos almacenados, a manera de depósito, como parte de la filosofía Maven. Estos artefactos, pueden ser ubicados mediante coordenadas. El repositorio Maven permite [añadir o hacer uso de            plugins previamente implementados.](https://maven.apache.org/repository/index.html)
     
-                                                                                                                                                                                                                                                                                                                                                                                                                           
+    
+ ![mvn](http://url/a.png)                                                                                                                                                                                                                                                                                        
                                                                                                                                                                                             *Autores* 
                                                                                                                                                                                                           
                                                                                                                                                                                                 Daniel Alejandro Acero 
